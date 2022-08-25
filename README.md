@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malte</h1>
-<h3 align="center">Just a fresh frontend developer which wants to learn.</h3>
+<h3 align="center">Just a fresh frontend developer who wants to learn.</h3>
 
 - 🌱 I’m currently learning **React, TypeScript, JavaScript, Leaflet**
 
